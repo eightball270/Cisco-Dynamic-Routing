@@ -11,8 +11,10 @@ This project describes the configuration of dynamic routing, using 2 protocols w
 
 ## RIP (Routing Information Protocol)
 This configuration uses RIP version 2 (RIPv2) because this version supports subnetting (VLSM).
+
 ![RIP Routing](https://github.com/user-attachments/assets/689d8edb-d087-406d-abae-d8be4bdf7d92)
 
 ## OSPF (Open Shortest Path First)
 OSPF configuration on Cisco is almost the same as RIP, but must specify the router ID with the area ID.
+
 ![OSPF Routing](https://github.com/user-attachments/assets/47b382b1-4ffb-4f58-b75c-d70558a95a8f)
