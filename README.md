@@ -1,1 +1,18 @@
 # Cisco-Dynamic-Routing
+This project describes the configuration of dynamic routing, using 2 protocols which are RIP and OSPF. RIP (Routing Information Protocol) is a dynamic routing protocol that uses a distance-vector algorithm to determine the best path in a computer network. While OSPF (Open Shortest Path First) is a dynamic routing protocol that uses a link-state algorithm to determine the best path in an IP network. The difference between the two is that the RIP protocol has a simple configuration but has a maximum hop count limitation of 15 hops and slow convergence making it suitable for small-scale networks, while the OSPF protocol has a more complex configuration but has no hop count limitation and fast convergence making it suitable for large-scale networks.
+
+## Tujuan
+1. memahami konfigurasi dari protokol routing RIPv2
+2. memahami konfigurasi dari protokol routing OSPF
+
+## Equipment
+1. 3 Router and Switch (divided 2 VLANs)
+2. 12 PC Clients
+
+## RIP (Routing Information Protocol)
+konfigurasi ini menggunakan RIP versi 2 (RIPv2) karena versi ini mendukung subnetting.
+![RIP Routing](https://github.com/user-attachments/assets/689d8edb-d087-406d-abae-d8be4bdf7d92)
+
+## OSPF (Open Shortest Path First)
+Konfigurasi OSPF di Cisco hampir sama seperti RIP, namun harus menentukan ID router dengan ID area.
+![OSPF Routing](https://github.com/user-attachments/assets/47b382b1-4ffb-4f58-b75c-d70558a95a8f)
