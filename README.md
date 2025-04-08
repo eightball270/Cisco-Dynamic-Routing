@@ -6,7 +6,7 @@ This project describes the configuration of dynamic routing, using 2 protocols w
 2. understand the configuration of OSPF routing protocol
 
 ## Equipment
-1. 3 Router and Switch (divided 2 VLANs)
+1. 3 Routers and Switches (divided 2 VLANs)
 2. 12 PC Clients
 
 ## RIP (Routing Information Protocol)
