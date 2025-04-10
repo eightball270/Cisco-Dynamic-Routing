@@ -1,4 +1,4 @@
-# Cisco-Dynamic-Routing
+# Cisco-and-MikroTik-Dynamic-Routing
 This project describes the configuration of dynamic routing, using 2 protocols which are RIP and OSPF. RIP (Routing Information Protocol) is a dynamic routing protocol that uses a distance-vector algorithm to determine the best path in a computer network. While OSPF (Open Shortest Path First) is a dynamic routing protocol that uses a link-state algorithm to determine the best path in an IP network. The difference between the two is that the RIP protocol has a simple configuration but has a maximum hop count limitation of 15 hops and slow convergence making it suitable for small-scale networks, while the OSPF protocol has a more complex configuration but has no hop count limitation and fast convergence making it suitable for large-scale networks.
 
 ## Objectives
