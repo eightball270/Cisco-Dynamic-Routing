@@ -22,13 +22,21 @@ This project uses Cisco and Mikrotik network devices to configure dynamic routin
 ## RIP (Routing Information Protocol)
 This configuration uses RIP version 2 (RIPv2) because this version supports subnetting (VLSM).
 
-Cisco :
+### Cisco :
 
 ![RIP Routing](https://github.com/user-attachments/assets/25923fc7-0c58-4954-8604-7a7c82b84746)
 
-Traceroute PC0 (192.168.1.2) to PC5 (192.168.2.3) and PC10 (192.168.3.130) :
+Traceroute from PC0 (192.168.1.2/25) to PC5 (192.168.2.3/25) and PC10 (192.168.3.130/25) :
 
 ![RIP Routing (1)](https://github.com/user-attachments/assets/a5e8960c-c9d3-47d7-a189-7b495a05a5ed) ![RIP Routing (2)](https://github.com/user-attachments/assets/db2f9e15-e554-4d09-ba97-a8750d1bc49b) ![RIP Routing (3)](https://github.com/user-attachments/assets/1a304b05-6244-4d06-b42e-e16b2fff00f6)
+
+### MikroTik :
+
+![RIP Routing (MikroTik)](https://github.com/user-attachments/assets/e355384a-1859-4f10-9cd9-c374cdf120b2)
+
+Traceroute from PC3 (192.168.10.130/25) to PC6 (192.168.20.3/25) and PC11 (192.168.3.130/25) :
+
+![RIP Routing (MikroTik) (1)](https://github.com/user-attachments/assets/e1d97fd3-d413-4f10-b106-a528dbbd15f2)
 
 ## OSPF (Open Shortest Path First)
 OSPF configuration on Cisco is almost the same as RIP, but must specify the process ID (Cisco)/router ID (MikroTik) with the area ID.
