@@ -5,7 +5,7 @@ This project uses Cisco and Mikrotik network devices to configure dynamic routin
 1. Cisco Packet Tracer v8.2.2
 2. GNS3 (MikroTik)
 
-## Equipment
+## Requirements
 1. 3 Routers and Switches (divided 2 VLANs)
 2. 12 Client PCs
 3. Straight-Through Cables
