@@ -27,6 +27,7 @@ This configuration uses RIP version 2 (RIPv2) because this version supports subn
 ### Cisco
 
 ![RIP Routing](https://github.com/eightball270/Cisco-and-MikroTik-Dynamic-Routing/blob/main/RIP%20Routing.png)
+[Project Link](https://github.com/eightball270/Cisco-and-MikroTik-Dynamic-Routing/blob/main/RIP%20Routing.pkt)
 
 Traceroute from PC0 (192.168.1.2/25) to PC5 (192.168.2.3/25) and PC10 (192.168.3.130/25) :
 
@@ -35,6 +36,7 @@ Traceroute from PC0 (192.168.1.2/25) to PC5 (192.168.2.3/25) and PC10 (192.168.3
 ### MikroTik
 
 ![RIP Routing (MikroTik)](https://github.com/eightball270/Cisco-and-MikroTik-Dynamic-Routing/blob/main/RIP%20Routing%20(MikroTik).png)
+[Project Link](https://github.com/eightball270/Cisco-and-MikroTik-Dynamic-Routing/blob/main/RIP%20Routing%20(MikroTik).gns3project.7z)
 
 Traceroute from PC3 (192.168.10.130/25) to PC6 (192.168.20.3/25) and PC11 (192.168.3.130/25) :
 
@@ -46,6 +48,7 @@ OSPF configuration on Cisco is almost the same as RIP, but must specify the proc
 ### Cisco
 
 ![OSPF Routing](https://github.com/eightball270/Cisco-and-MikroTik-Dynamic-Routing/blob/main/OSPF%20Routing.png)
+[Project Link](https://github.com/eightball270/Cisco-and-MikroTik-Dynamic-Routing/blob/main/OSPF%20Routing.pkt)
 
 Traceroute from PC10 (192.168.3.130/25) to PC4 (192.168.2.2/25) and PC3 (192.168.1.131/25) :
 
@@ -54,6 +57,7 @@ Traceroute from PC10 (192.168.3.130/25) to PC4 (192.168.2.2/25) and PC3 (192.168
 ### MikroTik
 
 ![OSPF Routing (Mikrotik)](https://github.com/eightball270/Cisco-and-MikroTik-Dynamic-Routing/blob/main/OSPF%20Routing%20(Mikrotik).png)
+[Project Link](https://github.com/eightball270/Cisco-and-MikroTik-Dynamic-Routing/blob/main/OSPF%20Routing%20(MikroTik).gns3project.7z)
 
 Traceroute from PC9 (192.168.30.2/25) to PC8 (192.168.20.131/25) and PC2 (192.168.10.3/25) :
 
