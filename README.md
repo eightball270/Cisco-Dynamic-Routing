@@ -38,7 +38,7 @@ Traceroute from PC0 (192.168.1.2/25) to PC5 (192.168.2.3/25) and PC10 (192.168.3
 
 ![RIP Routing (MikroTik).png)](https://github.com/eightball270/Cisco-and-MikroTik-Dynamic-Routing/blob/main/MikroTik/RIP%20Routing%20(MikroTik).png)
 
-[Project File Link (GNS3)](https://github.com/eightball270/Cisco-and-MikroTik-Dynamic-Routing/blob/main/MikroTik/RIP%20Routing%20(MikroTik).gns3project.7z)
+[Project File Link (GNS3)](https://github.com/eightball270/Cisco-and-MikroTik-Dynamic-Routing/blob/main/MikroTik/RIP%20Routing%20(MikroTik).gns3project.7z) (extract the file first)
 
 Traceroute from PC3 (192.168.10.130/25) to PC6 (192.168.20.3/25) and PC11 (192.168.3.130/25) :
 
@@ -61,7 +61,7 @@ Traceroute from PC10 (192.168.3.130/25) to PC4 (192.168.2.2/25) and PC3 (192.168
 
 ![OSPF Routing (Mikrotik).png](https://github.com/eightball270/Cisco-and-MikroTik-Dynamic-Routing/blob/main/MikroTik/OSPF%20Routing%20(Mikrotik).png)
 
-[Project File Link (GNS3)](https://github.com/eightball270/Cisco-and-MikroTik-Dynamic-Routing/blob/main/MikroTik/OSPF%20Routing%20(MikroTik).gns3project.7z)
+[Project File Link (GNS3)](https://github.com/eightball270/Cisco-and-MikroTik-Dynamic-Routing/blob/main/MikroTik/OSPF%20Routing%20(MikroTik).gns3project.7z) (extract the file first)
 
 Traceroute from PC9 (192.168.30.2/25) to PC8 (192.168.20.131/25) and PC2 (192.168.10.3/25) :
 
