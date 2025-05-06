@@ -11,8 +11,6 @@ RIP (Routing Information Protocol) is a dynamic routing protocol that uses a dis
 1. 3 Routers and Switches
 2. 6 Client PCs
 3. NAT Cloud (to remote via WinBox)
-4. Straight-Through Cables
-5. Crossover Cables (for inter-router connection)
 
 ## Configuration Done
 1. The IP address on the router is used as the gateway for each client PC and for the inter-router network
