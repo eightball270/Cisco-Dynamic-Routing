@@ -3,7 +3,7 @@ This simulation uses Cisco and MikroTik network devices to configure dynamic rou
 
 RIP (Routing Information Protocol) is a dynamic routing protocol that uses a distance-vector algorithm to determine the best path in a computer network. In contrast, OSPF (Open Shortest Path First) is a dynamic routing protocol that uses a link-state algorithm to determine the optimal path in an IP network. The key difference between the two is that RIP has a simpler configuration but is limited to a maximum of 15 hops and experiences slow convergence, making it suitable for small-scale networks. OSPF, on the other hand, has a more complex configuration but offers faster convergence and no hop count limitation, making it ideal for large-scale networks.
 
-## Technology Used
+## Simulator Used
 1. Cisco Packet Tracer
 2. GNS3 (MikroTik)
 
